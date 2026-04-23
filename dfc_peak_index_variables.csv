@@ -1,0 +1,172 @@
+Subject_ID,epilepsy_diagnosis,epilepsy_hemisphere,sex,age,age_onset,duration,days_since_last_seizure,intracranial_EEG_performed,localized_FDGPET_read,HS_MRI,surgery_type,surgery_num,pathology_notes,scalp_EEG_interictal_spike_freq,scalp_EEG_interictal_spike_freq_num,engel_outcome_1yr,engel_outcome_3yr,dfc_hip_lat,dfc_resection
+pat02,1,2,1,49,32,17,NaN,0,1,1,"Right Temporal Lobectomy",2,HS,moderately frequent,3,I-a,I-a,0.634344854657082,0.466593528545709
+pat03,1,2,1,51,10,41,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,occasional,2,II-a,I-c,0.582927063884982,1.09650173670485
+pat04,1,1,1,18,0.583333333333333,18,NaN,0,1,1,"Left Selective Amygdalohippocampectomy",1,HS,frequent,3,I-a,I-a,-0.890559645558396,0.819911817954423
+pat05,1,2,1,39,0.25,39,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,none,0,I-a,I-a,1.51766558831501,1.47091431914055
+pat06,1,1,2,28,24,4,NaN,0,1,1,"Left Selective Amygdalohippocampectomy",1,HS,occasional,2,I-a,I-d,0.0485523931903918,0.178560121372874
+pat07,1,2,1,54,33,21,NaN,0,2,0,"Right Temporal Lobectomy",2,HS,frequent sleep activated,3,I-a,I-a,2.25128602054777,1.68866436756851
+pat08,1,1,2,18,12,6,NaN,0,1,1,"Left Selective Amygdalohippocampectomy",1,HS,frequent in sleep,3,I-b,I-b,-1.29024070850546,1.53268057996963
+pat09,1,2,2,43,33,10,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,occasional sleep activated,2,I-a,III-b,0.670883422827877,0.0179153414473534
+pat10,1,2,2,24,1,23,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,frequent,3,I-a,II-a,-0.754789103723422,-2.72108438719601
+pat11,1,2,2,23,20,3,NaN,1,1,0,"Right Temporal Lobectomy",2,Gliosis Only,occasional sleep activated,2,III-a,III-a,0.768095607063365,-0.0460267834552711
+pat12,1,2,1,41,23,18,NaN,0,1,1,"Right Temporal Lobectomy",2,HS,frequent,3,I-a,I-a,1.16661308387317,0.0501085242893181
+pat13,1,2,1,38,33,5,NaN,0,2,1,"Right Selective Amygdalohippocampectomy",1,HS,frequent,3,II-c,IIIa,1.09280759289553,-0.0816084173996018
+pat14,1,2,1,37,1,36,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,occasional,2,I-a,I-a,1.64050558896088,0.877166720904258
+pat15,1,1,2,68,18,50,NaN,0,2,1,"Left Selective Amygdalohippocampectomy",1,HS,rare,1,I-a,II-b,-0.643862770384196,-1.48282381139908
+pat18,1,2,2,38,28,10,NaN,1,1,1,"Right Selective Amygdalohippocampectomy followed by Temporal Lobectomy",2,HS,frequent sleep activated,3,IV-c,IV-c,0.712244928154472,0.524544553123586
+pat19,1,1,1,46,0,46,NaN,0,2,0,"Left Selective Amygdalohippocampectomy",1,HS,none,0,I-a,I-a,-0.621480181842907,0.227916573628671
+pat20,1,2,1,36,20,16,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,frequent,3,II-b,III-a,0.974169266501436,0.660028405202092
+pat22,1,2,1,42,32,10,NaN,0,2,0,"Right Temporal Lobectomy",2,Gliosis Only,,NaN,II-c,II-c,-0.0211068125099793,0.401242667620139
+pat23,1,2,1,62,31,31,NaN,0,1,1,"Right Temporal Lobectomy",2,HS,frequent,3,I-a,I-a,0.408413524042592,0.337986534824665
+pat24,1,2,1,43,10,33,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,frequent,3,I-b,1b,1.2278270085741,-0.123865738877274
+pat26,1,1,2,35,32,3,NaN,0,1,1,"Left Selective Amygdalohippocampectomy (after prior laser)",1,HS,frequent,3,III-a,4b,-1.61894634331119,0.166555852416319
+pat27,1,2,2,25,22,3,NaN,0,1,0,"Right Selective Amygdalohippocampectomy",1,HS,none,0,I-a,1a,1.12450943209816,2.99222409753205
+pat29,1,1,1,42,18,22,NaN,0,2,1,"Left Selective Amygdalohippocampectomy",1,HS,none,0,III-a,4b,-0.716358128418904,-0.439200352285599
+pat32_01,1,2,1,45,6,39,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,frequent sleep activated,3,I-b,1a,0.607365217185885,0.954623055567958
+pat34_01,1,1,1,46,1,45,NaN,0,1,1,"Left Selective Amygdalohippocampectomy",1,HS,none,0,I-a,1a,-0.0689850613330911,0.640265806782746
+pat35_01,1,2,2,47,6,41,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,frequent sleep activated,3,I-b,1b,0.76734753372418,1.95369733803601
+pat36_01,1,2,1,55,50,5,NaN,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,none,0,I-a,1-d,2.92347571804878,2.48609795926682
+pat38_01,1,2,2,54,40,14,NaN,0,1,0,"Right Selective Amygdalohippocampectomy",1,HS,frequent,3,I-a,2a,-0.245489974309568,-0.545005872430371
+pat39_01,1,2,1,38,3,35,NaN,0,2,0,"Right Selective Amygdalohippocampectomy",1,HS,occasional sleep activated,2,I-b,1-d,0.804223781023263,-0.790626450453892
+pat101_01,1,1,2,26,0.0833333333333333,26,NaN,0,1,1,"Left Selective Amygdalohippocampectomy",1,HS,frequent,3,Ia,1a,-0.786039571977802,1.6364423635487
+pat102_01,1,1,2,57,52,5,NaN,0,1,1,"Left Selective Amygdalohippocampectomy",1,HS,none,0,I-a,I-a,-0.575320309949726,-0.323750789927585
+pat103_01,1,2,1,39,14,25,43,0,1,1,"Right Selective Amygdalohippocampectomy",1,HS,frequent,3,Ia,1a,0.748815909251807,-0.22887544921813
+pat104_01,1,1,2,44,17,27,13,0,1,1,"Left Selective amygdalohippocampectomy",1,HS,frequent sleep activated,3,Ia,2d,-0.703673215901915,-0.707601723786838
+pat105_01,1,2,2,60,10,50,6,0,1,1,"Right SAH",1,HS,occasional sleep activated,2,I-a,I-a,1.57420208965822,1.06853744394995
+pat106_01,1,2,2,44,3,41,148,0,1,1,"Right SAH + posterior hippo extension",1,HS,frequent,3,IIb,II-a,0.529527907939014,-1.05530541911795
+pat107_01,1,2,1,43,41,2,15,1,1,0,"Right SAH",1,HS,abundant,4,2b,1c,0.00914476468980138,1.98115757206788
+pat108_01,1,1,2,27,22,4,35,0,1,1,"Left SAH",1,HS,frequent sleep activated,3,I-a,2a,-1.42411200287881,1.86936405910109
+apat101_01,1,1,2,34,16,19,42,0,1,0,"Laser ablation of let amygdala & anterior hippocampus",3,none (laser),occasional,2,IV,3a,-0.882560291058162,-0.984686058559082
+apat102_01,1,2,2,50,4,44,NaN,1,1,0,"Right Selective Amygadalohippocampectomy",1,Gliosis Only,occasional,2,I-a,I-c,-0.168278566032171,2.28606537113347
+apat103_01,1,2,1,36,27,9,7,0,1,0,"Right ""limited"" ATL",2,Gliosis Only,occasional,2,Ib,1-b,-0.751232285471593,2.33629576493323
+apat104_01,1,1,1,45,40,5,7,0,1,0,"Left ""limited ATL +SAH""",2,Gliosis Only,frequent,3,III-a,III-a,-1.69976783274229,1.45459304104786
+apat105_01,1,2,1,65,62,3,7,0,1,0,"Right Selective Amygdalohippocampectomy",1,HS,frequent,3,1a,1a,1.35089059644314,0.618019339906876
+apat109_01,1,2,1,52,38,14,3,1,1,0,"Right ATL",2,Gliosis Only,frequent sleep activated,3,1a,1a,1.63747795097231,0.344848840500225
+apat110_01,1,2,2,24,17,7,90,0,2,0,"Right SAH",1,HS,frequent sleep activated,3,1a,1a,0.18855485884685,0.910811802098508
+apat111_01,1,2,1,30,16,14,7,1,2,0,"Right SAH",1,HS,rare sleep activated,1,1d,II-a,-0.845481591991894,0.555973116233132
+apat112_01,1,1,1,42,33,9,19,1,2,0,"Left SAH",1,Normal,occasional,2,1-a,2a,-0.914409723127057,0.59459429688875
+apat113_01,1,2,1,23,12,11,NaN,1,2,0,"Right Selective Amygadalohippocampectomy",1,HS,frequent,3,I-b,II-a,-0.123499588629082,-0.405599264400655
+apat116_01,1,1,2,41,10,31,162,1,2,1,"Left SAH",1,HS,occasional to frequent sleep activated,2.5,I-a,2a,-0.300636934137183,-0.389909963041487
+apat118_01,1,2,1,45,21,24,NaN,1,1,1,"Right Selective Amygadalohippocampectomy",1,HS,frequent sleep activated,3,I-a,I-a,0.601628667181716,0.773323402173559
+epat10_01,1,2,1,18,7,11,NaN,1,1,1,"Wedge resection of frontal lobe EZ",7,FCD,,NaN,1a,1a,0.662438411543327,1.28581361668985
+epat20_01,1,2,1,28,14,14,NaN,1,1,0,"Resection of Right Parietal EZ",7,FCD,,NaN,1a,1a,0.1050127019757,0.151691110281363
+dpat01,1,3,2,27,14,13,NaN,0,NaN,0,"",5,,,NaN,,,0.621945006355219,NaN
+dpat02,1,3,1,26,13,13,NaN,1,1,1,"",5,,,NaN,,,1.51187865947977,NaN
+dpat03,1,3,1,38,18,20,NaN,1,2,0,"",5,,,NaN,,,1.38236355224318,NaN
+dpat05,1,3,1,51,31,20,NaN,1,2,0,"",5,,,NaN,,,-0.441013073105207,NaN
+dpat06,1,3,1,39,24,15,NaN,1,2,0,"",5,,,NaN,,,-0.239078023569464,NaN
+dpat07,1,3,1,29,21,8,NaN,1,1,0,"",5,,,NaN,,,-1.02467951793419,NaN
+dpat08,1,3,1,25,10,15,NaN,1,1,1,"",5,,,NaN,,,0.892419021986853,NaN
+dpat12,1,3,2,39,25,14,NaN,0,1,0,"",5,,,NaN,,,-1.65881174839244,NaN
+dpat13,1,3,1,24,16,10,NaN,1,2,1,"",5,,,NaN,,,1.1535523990441,NaN
+dpat18,1,3,1,68,40,28,NaN,0,2,0,"",5,,,NaN,,,0.442931393073858,NaN
+dpat24,1,3,1,56,48,8,NaN,1,2,0,"",5,,,NaN,,,1.32525171493438,NaN
+con02,0,NaN,1,50,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0832948622961261,NaN
+con03,0,NaN,1,54,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.812267835789868,NaN
+con04,0,NaN,1,18,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.36820605227004,NaN
+con05,0,NaN,1,38,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0535431154705832,NaN
+con06,0,NaN,2,27,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0454690180354988,NaN
+con07,0,NaN,1,56,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.912212942655323,NaN
+con08,0,NaN,2,18,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.228171949877491,NaN
+con09,0,NaN,2,41,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.205348445138098,NaN
+con10,0,NaN,2,23,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.234298253150402,NaN
+con11,0,NaN,2,23,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.375691242375906,NaN
+con12,0,NaN,1,42,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-1.2592009317306,NaN
+con13,0,NaN,1,38,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.813071279949167,NaN
+con14,0,NaN,1,37,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.956378953439062,NaN
+con15,0,NaN,2,71,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.589527036807967,NaN
+con16,0,NaN,2,20,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.330289179480431,NaN
+con17,0,NaN,1,39,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-1.26846833415474,NaN
+con18,0,NaN,2,37,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.232063607982629,NaN
+con19,0,NaN,1,45,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0463507571531019,NaN
+con20,0,NaN,1,36,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.861300382621093,NaN
+con21,0,NaN,2,46,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-1.23288597886745,NaN
+con22,0,NaN,1,42,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.386342708837406,NaN
+con23,0,NaN,1,62,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-1.36311182761772,NaN
+con24,0,NaN,1,43,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.312545054832699,NaN
+con25,0,NaN,2,40,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.0724280898881689,NaN
+con26,0,NaN,2,35,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.444237172882775,NaN
+con27,0,NaN,2,26,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.212933787377689,NaN
+con28,0,NaN,1,32,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.793183799404119,NaN
+Xcon,0,NaN,1,22,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.774536461857903,NaN
+Xcon2,0,NaN,2,31,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.233127861400507,NaN
+Xcon3,0,NaN,1,36,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.315714981768308,NaN
+Xcon4,0,NaN,2,32,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.619343394363643,NaN
+Xcon5,0,NaN,2,29,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0775332590144287,NaN
+Xcon6,0,NaN,1,58,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.353866914561398,NaN
+Xcon7,0,NaN,1,62,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-1.56569987289953,NaN
+Xcon8,0,NaN,1,29,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.296998524953537,NaN
+Xcon9,0,NaN,2,55,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0641359369441672,NaN
+con28b,0,NaN,2,24,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.952967591069799,NaN
+con15b,0,NaN,2,69,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.750697829923051,NaN
+Xcon10,0,NaN,1,52,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.308701270812724,NaN
+Xcon11,0,NaN,2,58,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.0849258225197488,NaN
+Xcon12,0,NaN,2,33,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0283409936017896,NaN
+Xcon13,0,NaN,2,19,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.023392537720738,NaN
+Xcon14,0,NaN,2,25,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0223529585805661,NaN
+Xcon15,0,NaN,2,56,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.40358052059874,NaN
+con30,0,NaN,2,30,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.316450367251564,NaN
+Xcon16,0,NaN,1,46,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.200692279171036,NaN
+con101_01,0,NaN,2,29,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.326430057189495,NaN
+con102_01,0,NaN,2,30,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.516965632332866,NaN
+con103_01,0,NaN,2,25,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.135093842508822,NaN
+con104_01,0,NaN,2,24,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.552840535146719,NaN
+con105_01,0,NaN,1,26,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.101675701812676,NaN
+con106_01,0,NaN,2,30,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.357690989845587,NaN
+con107_01,0,NaN,1,27,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.379587731695327,NaN
+con108_01,0,NaN,1,25,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0910838979076112,NaN
+con109_01,0,NaN,1,30,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.223312018651087,NaN
+con110_01,0,NaN,2,39,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.263975206176966,NaN
+con111_01,0,NaN,2,41,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.916835701124238,NaN
+con112_01,0,NaN,2,24,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.276584879066738,NaN
+con113_01,0,NaN,1,24,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.995571496814358,NaN
+con114_01,0,NaN,1,65,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-1.07478122976902,NaN
+con115_01,0,NaN,1,48,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.284890756816674,NaN
+con116_01,0,NaN,1,50,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.469988943956711,NaN
+con117_01,0,NaN,2,59,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.259717081135017,NaN
+con118_01,0,NaN,2,31,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0724309290180279,NaN
+con119_01,0,NaN,1,22,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0207202285065874,NaN
+con120_01,0,NaN,2,46,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.95058512374182,NaN
+con121_01,0,NaN,2,20,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.468517173145985,NaN
+con122_01,0,NaN,1,54,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-1.22528957018848,NaN
+con123_01,0,NaN,2,53,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.355737027406258,NaN
+con124_01,0,NaN,1,30,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.413553944463724,NaN
+con125_01,0,NaN,1,31,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.143888321296419,NaN
+con126_01,0,NaN,2,34,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,1.06642004421802,NaN
+con129_01,0,NaN,1,22,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-1.51451400301584,NaN
+con127_01,0,NaN,1,38,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.563782930892245,NaN
+con130_01,0,NaN,2,51,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0392057157150172,NaN
+con128_01,0,NaN,1,42,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.598100558470588,NaN
+con131_01,0,NaN,1,51,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.697673800971228,NaN
+con132_01,0,NaN,1,53,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0197939769506096,NaN
+con133_01,0,NaN,2,28,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.733571548525507,NaN
+con134_01,0,NaN,2,51,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.487717165256618,NaN
+con135_01,0,NaN,2,26,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,1.06165362554266,NaN
+con136_01,0,NaN,2,30,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,1.01052764025018,NaN
+con137_01,0,NaN,1,47,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.179144310511655,NaN
+con138_01,0,NaN,1,60,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.0664705091558411,NaN
+con139_01,0,NaN,2,57,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.846519577757042,NaN
+con140_01,0,NaN,1,57,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-1.05688573311454,NaN
+con141_01,0,NaN,1,45,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.616635404193948,NaN
+con142_01,0,NaN,2,24,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.175036360970046,NaN
+con143_01,0,NaN,2,22,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.913112759029774,NaN
+con144_01,0,NaN,2,23,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.599288932864484,NaN
+con145_01,0,NaN,1,22,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.775765969711586,NaN
+con146_01,0,NaN,2,38,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.429007407881902,NaN
+con147_01,0,NaN,2,38,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.076474353180031,NaN
+con148_01,0,NaN,2,34,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.193921886850652,NaN
+con149_01,0,NaN,1,36,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.409518659779594,NaN
+con150_01,0,NaN,1,23,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.0309959453092217,NaN
+con151_01,0,NaN,1,23,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.766035254810077,NaN
+con152_01,0,NaN,1,44,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.63922417003933,NaN
+con153_01,0,NaN,1,22,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.883083199089185,NaN
+con154_01,0,NaN,1,48,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.610384416251577,NaN
+con155_01,0,NaN,2,40,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.564100363149609,NaN
+con156_01,0,NaN,2,24,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.183328896772716,NaN
+con157_01,0,NaN,1,60,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.9430615768407,NaN
+con158_01,0,NaN,1,42,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.75179337840859,NaN
+con159_01,0,NaN,1,21,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.83421175863312,NaN
+con160_01,0,NaN,1,22,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.108177731048188,NaN
+con161_01,0,NaN,1,32,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,-0.10100264624752,NaN
+con162_01,0,NaN,1,33,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.584373753767828,NaN
+con163_01,0,NaN,2,60,NaN,NaN,NaN,NaN,NaN,NaN,"",NaN,,,NaN,,,0.00691137355848764,NaN

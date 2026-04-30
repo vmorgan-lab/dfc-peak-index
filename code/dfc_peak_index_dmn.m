@@ -1,7 +1,7 @@
 %% This script calculates the number of negative dFC peaks to the DMN for every voxel
 
 % L Sainburg April 2025
-
+% Note: SPM12 is a dependency for this script
 
 function dfc_peak_index_dmn(subject_csv, control_5th_csv, dmn_mask_path, output_dir)
 % COMPUTE_DMN_DFC_NEG_PEAKS

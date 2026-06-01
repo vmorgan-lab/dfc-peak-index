@@ -1,5 +1,5 @@
 # dfc-peak-index
-Method and analysis code for the manuscript: "The dynamic functional connectivity peak index: detection of interictal epileptic activity with fMRI" by Sainburg LE, Roche A, Makhoul GS, Rogers BP, Williams Roberson S, Meletti S, Vaudano AE, Chang C, Englot DJ, Morgan VL.
+Method and analysis code for the manuscript: Sainburg LE, Roche A, Makhoul GS, Rogers BP, Williams Roberson S, Meletti S, Vaudano AE, Chang C, Englot DJ, Morgan VL. The dynamic functional connectivity peak index: detection of interictal epileptic activity with fMRI. *Epilepsia* (accepted).
 
 ## Analysis
 The script and data to reproduce the main figures and analysis from this manuscript are located at data/dfc_peak_index_variables.csv and code/dfc_peak_index_analysis_plot.m

@@ -12,3 +12,6 @@ The main script to compute dFC peak index maps on a group of scans is located at
 - This method and scripts assume consistency of TR and number of timepoints across subjects/scans. Adjustments need to be applied if implemented on datasets with heterogeneous acquisitions
 - These scripts assume that all images are in the same space (e.g. MNI152)
 - We used a full anatomical parcellation of the DMN as a seed for the dFC peak index method, but other networks, seeds, or parcellations could be used for this method. An example of a single subject's DMN parcellation from the study is at data/dmn.nii.gz.
+
+## Python
+The main method scripts were converted to Python, which are available in the python folder and were created to work on BIDS-structured datasets. These scripts depend on nibabel, numpy, pandas, nilearn, and scipy.
